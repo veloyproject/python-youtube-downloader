@@ -1,5 +1,3 @@
-!["Python Youtube Downloader"](cover.png)
-
 ## Quick Start
 
 ```
